@@ -30,23 +30,8 @@ Currently working as a laboratory assistant while sharpening my dev skills.
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rahmaliyyah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahmaliyyah&layout=donut&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=rahmaliyyah&theme=tokyonight&hide_border=true" />
-
-</div>
----
 
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahmaliyyah)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rahmaliyyah)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rahmaliyyh)
