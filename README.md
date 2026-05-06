@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rahma+Aliyyah.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=bf91f3&center=true&vCenter=true&width=600&lines=Web+Development+Enthusiast+%E2%80%A2+Laboratory+Assistant)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=bf91f3&center=true&vCenter=true&width=600&height=30&lines=Web+Development+Enthusiast+%E2%80%A2+Laboratory+Assistant)](https://git.io/typing-svg)
 
 </div>
 
@@ -34,14 +34,14 @@ Currently working as a laboratory assistant while sharpening my dev skills.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rahmaliyyah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://streak-stats.demolab.com?user=rahmaliyyah&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rahmaliyyah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmaliyyah&layout=donut&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmaliyyah&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=rahmaliyyah&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 </div>
 
