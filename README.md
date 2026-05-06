@@ -1,4 +1,4 @@
-<h1 align="center">Hai, aku Rahma Aliyyah! 👋</h1>
+<h1 align="center">Hai, aku Rahma Aliyyah!</h1>
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=A371F7&center=true&vCenter=true&width=500&lines=Web+Development+Enthusiast;Laboratory+Assistant;Always+learning+new+things+%E2%9C%A8" />
