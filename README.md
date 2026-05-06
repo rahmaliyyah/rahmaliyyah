@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi%2C+I'm+Rahma+Aliyyah.;Web+Development+Enthusiast.;Laboratory+Assistant.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rahma+Aliyyah.)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=70A5FD,bf91f3&height=80&section=header&fontSize=0" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=bf91f3&center=true&vCenter=true&width=600&lines=Web+Development+Enthusiast+%E2%80%A2+Laboratory+Assistant)](https://git.io/typing-svg)
 
 </div>
 
@@ -51,5 +51,3 @@ Currently working as a laboratory assistant while sharpening my dev skills.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahmaliyyah)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rahmaliyyah)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=70A5FD,bf91f3&height=80&section=footer&fontSize=0" />
